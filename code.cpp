@@ -116,5 +116,5 @@ if(flag==1)
 	cout << " P" << ans[n - 1] <<endl;
 }
 
-	return (0);
+	return 0;
 }
